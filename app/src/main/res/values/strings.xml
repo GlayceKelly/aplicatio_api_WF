@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TesteWF_API</string>
+    <string name="tag1">tag1</string>
+    <string name="tag2">tag2</string>
+    <string name="inicio">Inicio</string>
+    <string name="repositorios">Repositórios</string>
+    <string name="detalhes">Detalhes</string>
+</resources>
